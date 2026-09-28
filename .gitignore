@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+preferences.json
+.hindsight_seeded
+.streamlit/secrets.toml

@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Streamlit app",
+      "type": "shell",
+      "command": "python -m streamlit run app.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Run CLI agent",
+      "type": "shell",
+      "command": "python main.py",
+      "problemMatcher": []
+    }
+  ]
+}
